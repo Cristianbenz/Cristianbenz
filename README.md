@@ -11,28 +11,42 @@ Actually I'm looking for my first experiences and new challenges.
 
 ### Linguini Recipes
 
-<img width=25% src='./images/projects/pi/pi-landing.png' alt='Project Landing section screenshot'/>
-
-<img width=25% src='./images/projects/pi/pi-home.png' alt='Project Home section screenshot'/>
-
-<img width=25% src='./images/projects/pi/pi-create.png' alt='Project Create section screenshot'/>
+<a href='https://foods-pi.vercel.app/' target='_blank'>
+    <img width=25% src='./images/projects/pi/pi-landing.png' alt='Project Landing section screenshot'/>
+</a>
+<a href='https://foods-pi.vercel.app/home' target='_blank'>
+    <img width=25% src='./images/projects/pi/pi-home.png' alt='Project Home section screenshot'/>
+</a>
+<a href='https://foods-pi.vercel.app/recipeCreator' target='_blank'>
+    <img width=25% src='./images/projects/pi/pi-create.png' alt='Project Create section screenshot'/>
+</a>
 
 ### DataFilms
 
-<img width=25% src='./images/projects/datafilms/datafilms-landing.png' alt='Project Landing section Screenshot'/>
-
-<img width=25% src='./images/projects/datafilms/datafilms-home.png' alt='Project Home section Screenshot'/>
-
-<img width=25% src='./images/projects/datafilms/datafilms-search.png' alt='Project Search section Screenshot'/>
-
-<img width=25% src='./images/projects/datafilms/datafilms-detail.png' alt='Project Detail section Screenshot'/>
+<a href='https://data-films.vercel.app/' target='_blank'>
+    <img width=25% src='./images/projects/datafilms/datafilms-landing.png' alt='Project Landing section Screenshot'/>
+</a>
+<a href='https://data-films.vercel.app/' target='_blank'>
+    <img width=25% src='./images/projects/datafilms/datafilms-home.png' alt='Project Home section Screenshot'/>
+</a>
+<a href='https://data-films.vercel.app/' target='_blank'>
+    <img width=25% src='./images/projects/datafilms/datafilms-search.png' alt='Project Search section Screenshot'/>
+</a>
+<a href='https://data-films.vercel.app/' target='_blank'>
+    <img width=25% src='./images/projects/datafilms/datafilms-detail.png' alt='Project Detail section Screenshot'/>
+</a>
 
 ### Ave Silver And Crystals
 
-<img width=25% src='./images/projects/ave/ave-header.png' alt='Project Home section Screenshot'/>
-
-<img width=25% src='./images/projects/ave/ave-piezas.png' alt='Project Products section Screenshot'/>
-
-<img width=25% src='./images/projects/ave/abe-about.png' alt='Project About section Screenshot'/>
-
-<img width=25% src='./images/projects/ave/ave-contact.png' alt='Project Contact section Screenshot'/>
+<a href='https://www.avesilver.com/' target='_blank'>
+    <img width=25% vertical-align=top src='./images/projects/ave/ave-header.png' alt='Project Home section Screenshot'/>
+</a>
+<a href='https://www.avesilver.com/piezas' target='_blank'>
+    <img width=25% src='./images/projects/ave/ave-piezas.png' alt='Project Products section Screenshot'/>
+</a>
+<a href='https://www.avesilver.com/sobreAve' target='_blank'>
+    <img width=25% src='./images/projects/ave/abe-about.png' alt='Project About section Screenshot'/>
+</a>
+<a href='https://www.avesilver.com/contacto' target='_blank'>
+    <img width=25% src='./images/projects/ave/ave-contact.png' alt='Project Contact section Screenshot'/>
+</a>
