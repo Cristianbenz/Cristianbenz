@@ -5,6 +5,34 @@ Actually I'm looking for my first experiences and new challenges.
 
 ## Technologies
 
+<a href=https://developer.mozilla.org/es/docs/Glossary/HTML5 target=_blank>
+    <img width=40px src=./images/technologies/html-icon.png alt=html icon />
+</a>
+<a href=https://developer.mozilla.org/es/docs/Web/CSS target=_blank>
+    <img width=40px src=./images/technologies/css-icon.png alt=html icon />
+</a>
+<a href=https://developer.mozilla.org/es/docs/Web/JavaScript target=_blank>
+    <img width=40px src=./images/technologies/javascript-icon.png alt=html icon />
+</a>
+<a href=https://reactjs.org/ target=_blank>
+    <img width=40px src=./images/technologies/react-icon.png alt=html icon />
+</a>
+<a href=https://nextjs.org/ target=_blank>
+    <img width=40px src=./images/technologies/nextjs-icon.png alt=html icon />
+</a>
+<a href=https://nodejs.org/en/about/ target=_blank>
+    <img width=40px src=./images/technologies/node-icon.png alt=html icon />
+</a>
+<a href=https://jestjs.io/ target=_blank>
+    <img width=40px src=./images/technologies/jest-icon.png alt=html icon />
+</a>
+<a href=https://www.mongodb.com/ target=_blank>
+    <img width=40px src=./images/technologies/mongo-icon.webp alt=html icon />
+</a>
+<a href=https://www.postgresql.org/about/ target=_blank>
+    <img width=40px src=./images/technologies/postgre-icon.webp alt=html icon />
+</a>
+
 ## Proyects
 
 ### GameScript
