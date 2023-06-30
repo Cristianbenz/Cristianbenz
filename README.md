@@ -1,17 +1,14 @@
 # Sobre Mi
 
-!Hola¡ Mi nombre es Cristian y soy Back End developer, actualmente estoy buscando de forma activa ingresar a un equipo de trabajo para potenciar mis habilidades mientras a su vez ayudo a alcanzar los objetivos generales. Me especializo en C# .NET y tengo conocimientos en Typescript, me gusta estar constantemente aprendiendo herramientas, logro buena conexión e incluso liderazgo en equipos en general y tengo buena adaptabilidad.
+Hello! My name is Cristian and I love the world of data, especially how it can drive decisions, research, algorithms and much more.
 
 
-## Tecnologías
-- C#
-- TypeScript.
-- .NET.
-- ASP.
+## Technologies
+- Python.
 - SQL.
-- Tests Unitarios.
-- Entity Framework.
-- Angular.
-- MongoDB.
-- Swagger.
+- Apache Airflow.
+- Pandas.
+- AWS EC2.
+- AWS S3.
+- Unit testing.
 - Docker.
