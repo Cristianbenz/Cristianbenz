@@ -1,4 +1,4 @@
-# Sobre Mi
+# About Me
 
 Hello! My name is Cristian and I love the world of data, especially how it can drive decisions, research, algorithms and much more.
 
