@@ -40,7 +40,7 @@ Academic project about a Games E-commerce. I was part of a team of 8 people and 
 
 ### Ave Silver and Crystals
 
-First Frontend Freelance project for a small company, I did the front end of it following a Figma, the web has section such as products, home, contact and detail, it has been designed using React Js, Bootstrap, Responsive Design.
+First Frontend Freelance project for a small company, I did the front end of it following a Figma, the web has section such as products, home, contact and detail. Also it can be displayed in english or spanish. It has been designed using React Js, Bootstrap, Responsive Design.
 ![Ave header section](/images/projects/ave/ave-header.png)
 ![Ave piezas section](/images/projects/ave/ave-piezas.png)
 ![Ave about section](/images/projects/ave/abe-about.png)
