@@ -1,14 +1,21 @@
 # About Me
 
-Hello! My name is Cristian and I love the world of data, especially how it can drive decisions, research, algorithms and much more. I made projects that include data collection, data cleaning, data uploading, sql, AWS services, email notifications, etc.
+Hello! My name is Cristian and I'm a Software Developer.
 
 
 ## Technologies
-- Python.
+- JavaScript.
+- TypeScript.
+- C#.
 - SQL.
-- Apache Airflow.
-- Pandas.
-- AWS EC2.
-- AWS S3.
+- React Js.
+- Angular Js.
+- MongoDB
+- Node Js.
+- ASP NET.
+- Entity framework.
+- Sequelize.
+- Amazon Web Services.
+- GCP.
 - Unit testing.
 - Docker.
